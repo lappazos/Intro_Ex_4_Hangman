@@ -1,0 +1,18 @@
+lioraryepaz
+206240996
+Lior Paz
+
+Description - ex4:
+The exercise execute a game of hangman, include:
+hints according to most common letters in suitable words
+pattern update
+wrong gues count
+and a great option of palying again.
+all functions were heled by hangman_helper.py
+
+Special Comments:
+it was really fun to create hangman!! i leqrned about importing other
+modules that were written for me and using them. also, i learned about implementing
+functions in other functions.
+
+i consulted with - Gal Toledano, about one of my functions.
